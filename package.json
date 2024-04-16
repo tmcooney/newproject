@@ -1,0 +1,22 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "description": "observability assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmcooney/observabilityassignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmcooney/observabilityassignment/issues"
+  },
+  "homepage": "https://github.com/tmcooney/observabilityassignment#readme",
+  "dependencies": {
+    "@opentelemetry/exporter-jaeger": "^1.23.0"
+  }
+}
